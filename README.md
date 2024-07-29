@@ -18,6 +18,6 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvi
 
 **Implementing App**
 
-1)Run the command-streamlit VocaTrans.py
+1)Run the command-streamlit run VocaTrans.py
 
 ![Screenshot 2024-07-22 232204](https://github.com/user-attachments/assets/7c5c12f5-78a2-4536-a594-99803dd960cf)
