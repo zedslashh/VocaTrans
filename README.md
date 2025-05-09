@@ -7,7 +7,9 @@ VocaTrans is a web application that leverages Whisper's speech-to-text model for
 pip install streamlit
 
 2)Whisper- Whisper is a library by OpenAI for automatic speech recognition (ASR).
+```bash
 pip install git+https://github.com/openai/whisper.git -q
+```
 
 3)FFmpeg-FFmpeg is a multimedia framework used for handling audio, video, and other multimedia files and streams.It is required to process and transcribe audio files.
   i)Download zip file of ffmpeg
